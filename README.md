@@ -12,9 +12,9 @@ Name: [Your Name]
 Major: Computer Science
 
 ## Skills
-- Programming: Python, Java
-- Git: Intermediate
-- Web Development: HTML, CSS
+- Programming: C++, JavaScript
+- Git: Advanced
+- Database: SQL
 
 ## Projects
 - Project 1: TBD
@@ -22,7 +22,3 @@ Major: Computer Science
 
 ## Contact
 Email: student@university.edu
-EOF
-
-git add portfolio.md
-git commit -m "Initial portfolio"
