@@ -1,14 +1,7 @@
-# Create a new repository
-mkdir my-portfolio
-cd my-portfolio
-git init
-
-# Create initial portfolio file
-cat > portfolio.md << 'EOF'
 # My Portfolio
 
 ## About Me
-Name: [Your Name]
+Name: Maximilian Ali
 Major: Computer Science
 
 ## Skills
@@ -21,4 +14,4 @@ Major: Computer Science
 - Project 2: TBD
 
 ## Contact
-Email: student@university.edu
+Email: mali291@myseneca.ca
