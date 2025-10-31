@@ -5,8 +5,9 @@ Name: Maximilian Ali
 Major: Computer Science
 
 ## Skills
-- Programming: C++, JavaScript
+- Programming: Python, Java, C++, JavaScript
 - Git: Advanced
+- Web Development: HTML, CSS
 - Database: SQL
 
 ## Projects
